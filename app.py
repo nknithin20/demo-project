@@ -1,4 +1,4 @@
-a = input("enter a number")
+a = int(input("enter a number"))
 if a % 2 == 0:
     print("whether is to cool")
 else:
